@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="flex items-center pl-5">
                     <div class="pt-3">
-                        <img src="/svg/crunched.svg" alt="" class="pr-3" style=" height:45px; border-right: 1px solid #333;">
+                        <img src="/svg/crunched.svg" alt="" class="pr-10" style=" height:45px; ">
                     </div>
                 </div>
                 <div class="flex items-center p-5">
